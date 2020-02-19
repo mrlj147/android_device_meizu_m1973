@@ -5,7 +5,7 @@
  *
  */
 
-package org.mokee.device.parts;
+package org.lineage.device.parts;
 
 class Constants {
 

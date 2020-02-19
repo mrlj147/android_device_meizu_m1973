@@ -5,7 +5,7 @@
  *
  */
 
-package org.mokee.device.parts;
+package org.lineage.device.parts;
 
 import android.content.Context;
 import android.provider.Settings;
