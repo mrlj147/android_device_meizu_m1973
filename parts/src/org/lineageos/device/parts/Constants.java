@@ -5,7 +5,7 @@
  *
  */
 
-package org.lineage.device.parts;
+package org.lineageos.device.parts;
 
 class Constants {
 
